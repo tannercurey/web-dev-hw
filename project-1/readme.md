@@ -28,6 +28,3 @@ _My Goals_
 [Link to the markdown cheat sheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ![Screenshot Of my Directory](./images/screenshot-1.ong)
-
--Tanner
-Did it work?
