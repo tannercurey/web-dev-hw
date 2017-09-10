@@ -26,3 +26,5 @@ _My Goals_
 </dl>
 
 [Link to the markdown cheat sheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+![Screenshot Of my Directory](./images/screenshot-1.ong)
