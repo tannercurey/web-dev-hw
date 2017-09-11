@@ -1,7 +1,8 @@
 # **My First README.md**
-<hr>
-## Tanner Curey
-<hr>
+
+## **Tanner Curey**
+---
+
 **Hi!**
 
 This is my first time doing any real coding. While I have been confused during this process, I've learned that with commitment and perseverance I am able to complete the task at hand.
