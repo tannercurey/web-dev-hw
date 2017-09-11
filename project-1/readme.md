@@ -26,4 +26,4 @@ _My Goals_
 
 ![Screenshot of my Directory](./images/screenshot-1.png)
 
-This process requires a lot of trial and error and patience but i'm surviving.
+This process requires a lot of trial and error and patience but i'm surviving. I struggled with general concept of connecting the github desktop to atom initally but I eventually realized that they had already been connected. At times I also struggles with markdown by making some minor character errors that throw off the intended design. I found HTML and the live site to be much easier than this readme portion of the assignment. Perhaps it's because of the practice in part 1 that better prepared me for part2, maybe it is getting a little easier afterall?
