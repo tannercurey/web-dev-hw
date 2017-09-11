@@ -1,12 +1,11 @@
 # **My First README.md**
 
 ## **Tanner Curey**
----
 
 **Hi!**
 
 This is my first time doing any real coding. While I have been confused during this process, I've learned that with commitment and perseverance I am able to complete the task at hand.
-
+---
 _What I've Learned_
 
 1. I've learned basic markdown commands.
@@ -18,8 +17,8 @@ _My Goals_
 * To independently write my own code and make it live on my own site.
 * To learn markdown well enough to not rely on the cheat sheat.
 
-  <dt>Inline Code</dt>
-  ## This is a foreign language.
+  `Inline Code`
+  `This is a foreign language`
 
 [Link to the markdown cheat sheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
