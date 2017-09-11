@@ -1,6 +1,6 @@
 # **My First README.md**
 <hr>
-## **Tanner Curey**
+## Tanner Curey
 <hr>
 **Hi!**
 
@@ -17,13 +17,8 @@ _My Goals_
 * To independently write my own code and make it live on my own site.
 * To learn markdown well enough to not rely on the cheat sheat.
 
-<dl>
   <dt>Inline Code</dt>
-  <dd>Is a foreign language.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+  ## This is a foreign language.
 
 [Link to the markdown cheat sheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
