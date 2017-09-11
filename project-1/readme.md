@@ -27,6 +27,6 @@ _My Goals_
 
 [Link to the markdown cheat sheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-![Screenshot Of my Directory](./images/screenshot-1.ong)
+![Screenshot of my Directory](./Images/ScreenShot-%201.png)
 
-This process requires a lot of trial and error and patience but i'm surviving. 
+This process requires a lot of trial and error and patience but i'm surviving.
