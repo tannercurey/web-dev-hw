@@ -10,19 +10,21 @@
     </head>
     <body>
       <h1><center>Form & Quiz</center></h1>
-    <form action="" method="" id="" class="">
+    <form action="https://tannercurey.github.io/web-dev-hw/Project2/login.php" method="" id="" class="">
 <!-- Plain Text Box -->
       <h3>Fill out the form and questions below:</h3>
 <fieldset>
   <p>
+    <autofocus>
      Name:
-     <input type="text" name="username" id="username-input" />
+     <input type="text" name="username" id="username-input" required="required" />
   </p>
 <!-- Email Subscribe box/button -->
 <p>Subscribe to our e-mail list:</p>
    <input type="text" name="email" />
    <input type="submit" name="subscribe" value="Subscribe" />
 </fieldset>
+ </autofocus>
 <!-- Select answer dropdown box -->
 <h3>What's your favorite Caprese ingredient? </h3>
   <select name="favorite_ingredient">
@@ -33,12 +35,12 @@
    <option value="Bal">Balsamic Vinegar</option>
   </select>
   <!-- Check box question -->
-<p><h3>What country did Caprese originate?</h3>
+<p><h3>In what country did Caprese originate?</h3>
    <input type="checkbox" name="country" value="France" /> France
      <br />
    <input type="checkbox" name="country" value="Spain" /> Spain
      <br />
-   <input type="checkbox" name="country" value="Italy" checked /> Italy
+   <input type="checkbox" name="country" value="Italy" /> Italy
      <br />
    <input type="checkbox" name="country" value="Greece" /> Greece<br />
   </p>
