@@ -2,7 +2,6 @@
 
 body {
       background-color: #202020;
-      font-family: 'Roboto Condensed', sans-serif;
      }
 h1  {
      color: #FFFFFF;
@@ -30,6 +29,7 @@ h4 {
    }
 h5 {
     color:#FFFFFF;
+    font-family: 'Audiowide', cursive;
    }
 a {
     color: #202020;
