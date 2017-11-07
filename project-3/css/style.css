@@ -1,0 +1,48 @@
+/* Select the main container 'div' element */
+
+body {
+      background-color: #202020;
+      font-family: 'Roboto Condensed', sans-serif;
+     }
+h1  {
+     color: #FFFFFF;
+     text-align: center;
+     font-family: 'Orbitron', sans-serif;
+    }
+h2 {
+    color: #FFFFFF;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+   }
+p {
+   color: #202020;
+   text-align: left;
+   font-size: 120%;
+   line-height: 150%;
+  }
+h3 {
+    color: #FFFFFF;
+    font-family: 'Roboto Condensed', sans-serif;
+   }
+h4 {
+    color: #202020;
+    font-family: 'Orbitron', sans-serif;
+   }
+h5 {
+    color:#FFFFFF;
+   }
+a {
+    color: #202020;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+   }
+ul {
+    text-align: center;
+   }
+button {
+        text-align: center;
+       }
+th {
+    color: #202020;
+    font-family: 'Orbitron', sans-serif;
+   }
