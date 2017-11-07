@@ -15,6 +15,7 @@ h2 {
    }
 p {
    color: #202020;
+   font-family: 'Roboto Condensed', sans-serif;
    text-align: left;
    font-size: 120%;
    line-height: 150%;
@@ -36,13 +37,10 @@ a {
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
    }
-ul {
-    text-align: center;
-   }
-button {
-        text-align: center;
-       }
 th {
     color: #202020;
     font-family: 'Orbitron', sans-serif;
    }
+b {
+  color:#D82B1F;
+  }
