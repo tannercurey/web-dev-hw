@@ -111,15 +111,16 @@ ul {
     overflow: hidden;
     background-color: #333;
     text-align: center;
+    margin: 0 auto;
 }
 
 li {
-    float: left;
-    text-align: center;
+  text-align: center;
+  display: inline-block;
 }
 
 li a {
-    display: block;
+    display: inherit;
     color: white;
     text-align: center;
     padding: 14px 16px;
