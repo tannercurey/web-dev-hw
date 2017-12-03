@@ -1,0 +1,86 @@
+/* Text */
+h2 {
+	font-family: 'barlow', sans-serif;
+	color: #ffffff}
+
+h1 {
+	font-family: 'coda', cursive;}
+
+P {
+	color: #404241}
+
+/* RWD_Image */
+.main-image img {
+      align-content: center;
+      height: auto;
+      max-width: 100%;}
+
+/* NavBar */
+	.active {
+							 background-color: #404241;
+							 text-align: center;}
+							 li {
+							   text-align: center;
+							   display: inline-block;
+							 }
+
+							 li a {
+							     display: inherit;
+							     color: #edefee;
+							     text-align: center;
+							     padding: 14px 16px;
+							     text-decoration: none;
+							 }
+
+							 /* Change the link color to #111 (black) on hover */
+							 li a:hover {
+							     background-color: #111;
+							     text-align: center;
+							 }
+
+/* FlexBox */
+	#container {
+	            display: flex;
+	            flex-wrap: wrap;
+	            font-family: 'barlow', sans-serif;}
+
+	.square-1 {
+	             background-color: #edefee;
+	             width: 100%;
+	             text-align: center;
+	             padding: 5px;
+							 color: #ff8800;}
+
+	.square-2 {
+	             background-color: #a4a8a7;
+	             width: 100%;
+	             text-align: center;
+	             padding: 5px;
+							 color: #00ff61;}
+
+	.square-3 {
+						 background-color:#707272;
+						 width: 100%;
+						 text-align: center;
+						 padding: 5px;
+					 	 color:#00bbff}
+
+	.square-4 {
+	                background-color: #404241;
+	                width: 100%;
+	                max-height: 350px;
+	                text-align: center;
+	                padding: 5px;
+	                overflow: scroll;
+									color:#ff0000}
+
+	@media screen and (min-width: 1015px) {
+	                                       .square-1 {
+	                                                    width: 100%;}
+	                                       .square-2 {
+	                                                    width: 49%;}
+																				 .square-3 {
+						 	                                         width: 49%;}
+	                                       .square-4 {
+	                                                       width: 100%;}
+	                                                                    }
