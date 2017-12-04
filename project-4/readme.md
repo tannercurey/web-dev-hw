@@ -3,6 +3,8 @@
 
 I wanted to make simple and clean site that demonstrated why RWD is important. To do this I wanted to incorporate a lot of facts about why RWD is so important. I had the idea of making the site look like a real website but with the style of a infographic. I explored various displays at different screen sizes. Fixing my main image to adapt to various scree displays was challenging at first but after playing around with the code for awhile I was able to get it to adapt appropriately. I had to play around with the Navbar as well to make it fully responsive. While this project wasn't necessarily easy, it was achievable and made me think "why wouldn't you make your site responsive?"
 
+The main image on the page (RWD Image), just below the header draws the eyes attention first, along with the title in bright orange text that says "Why is RWD so important?". The primary content of this page is the explanation of why RWD is so important, located just below the main image. The secondary content of this page is the stats and facts highlighted in separate boxes below the explanation at the bottom of the page.
+
 **RWD Goals:**
 * Maintaing a clean look with an attractive color scheme
 * Optimize the site for all screen sizes in an attractive manner
