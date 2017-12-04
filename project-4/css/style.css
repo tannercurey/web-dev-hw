@@ -1,19 +1,23 @@
 /* Text */
 h2 {
 	font-family: 'barlow', sans-serif;
-	color: #ffffff}
+	color: #ffffff;
+}
 
 h1 {
-	font-family: 'coda', cursive;}
+	font-family: 'coda', cursive;
+}
 
 P {
-	color: #404241}
+	color: #404241;
+}
 
 /* RWD_Image */
 .main-image img {
       align-content: center;
       height: auto;
-      max-width: 100%;}
+      max-width: 100%;
+		}
 
 /* NavBar */
 	.active {
