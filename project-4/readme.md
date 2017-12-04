@@ -11,9 +11,9 @@ I explored various displays at different screen sizes. Fixing my main image to a
 * Provide facts, examples, and stats of why RWD is important
 
 **Images of RWD on my page**
-**Phone Size**
-![Screenshot Of Phone Size Screen (Top Portion of page)](./images/phonesize1.png)
+
 **Tablet Size**
 ![Screenshot Of Tablet Size Screen (Bottom Portion of page)](./images/tabletsize.png)
+
 **Computer Size**
 ![Screenshot Of Computer Size Screen (Bottom Portion of page)](./images/computersize.png)
